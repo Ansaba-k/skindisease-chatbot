@@ -38,9 +38,9 @@ DermAI provides users with a **cost-effective, instant, and accessible** way to:
 
 ---
 
-## 🛠️ Technical Details
+## **Technical Details**
 
-### 🔧 **Frontend**
+###  **Frontend**
 
 * ReactJS / Streamlit (User interface and interaction)
 
