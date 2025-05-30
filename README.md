@@ -96,6 +96,7 @@ People often rely on memory to track skin issues, missing subtle changes or dela
 <img width="940" alt="Screenshot 2025-05-31 003549" src="https://github.com/user-attachments/assets/db16fdb2-6783-4e79-b2e4-5bcfafec8235" />
 
 
+
 >video : *(https://github.com/user-attachments/assets/b8fbe751-0681-45cb-864a-5f54becf0813)*
 
 ##  Team CODE CATALYST
