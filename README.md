@@ -30,21 +30,12 @@ Millions lack access to regular dermatological consultations, often relying on g
 ##  Our Solution
 
 
-Instant Image Analysis:Users upload a skin image and get quick predictions about possible skin issues.
-
-Chat-Based Support:Ask the chatbot questions about symptoms, care, or when to see a doctor.
-
-Condition Progress Tracking:Upload images over days or weeks to see how the skin is changing.
-
-Visual Comparisons:See past and current images side by side or as a slideshow to track changes.
-
-Smart Insights:Get advice if things are getting worse or not improving.
-
-Chat & Image History Panel:A sidebar shows your past chats and images for easy reference.
-
-First-Level Triage Tool:Helps decide if a doctor visit is needed—fast, easy, and accessible.
-
-
+* AI Skin Analysis – Instantly detects possible skin issues from uploaded images.
+* Smart Chat Support – Answers questions about symptoms, care, and when to see a doctor.
+* Progress Tracking – Users can upload images over time (daily/weekly).
+* Visual Comparison – Side-by-side or slideshow view to see changes.
+* Health Insights – Suggests if the condition is improving or needs medical attention.
+* History Sidebar – Keeps chat and image history for easy review.
 
 ---
 
