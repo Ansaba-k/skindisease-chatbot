@@ -81,7 +81,7 @@ People often rely on memory to track skin issues, missing subtle changes or dela
 
 ##  Sample Use Cases & Screenshots
 
-> *(Replace these with actual image links or embed in your GitHub README)*
+> *(https://github.com/user-attachments/assets/b8fbe751-0681-45cb-864a-5f54becf0813)*
 
 * User uploads a mole image
 * AI predicts possible Melanoma
