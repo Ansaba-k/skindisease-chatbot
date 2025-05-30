@@ -23,8 +23,7 @@ DermAI is an AI-powered chatbot designed to provide both instant analysis and pr
 
 ##  Problem Statement
 
-Millions lack access to regular dermatological consultations, often relying on guesswork or static online results. Most AI tools provide only single-instance diagnosis with no follow-up tracking. This leads to missed signs of deterioration or unnecessary worry. DermAI addresses this by offering ongoing monitoring, enabling users to visualize changes in their skin conditions, understand the effectiveness of treatments, and get AI-guided suggestions based on historical data. It bridges the gap between one-time detection and continuous care in an affordable and accessible way.
-
+People often rely on memory to track skin issues, missing subtle changes or delaying care. Most AI tools offer only one-time diagnosis without follow-up. DermAI fills this gap by enabling ongoing image-based tracking, offering AI-driven analysis, and guiding users with timely, visual, and personalized skin health support.
 ---
 
 ##  Our Solution
