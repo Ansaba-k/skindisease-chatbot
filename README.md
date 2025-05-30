@@ -89,14 +89,14 @@ People often rely on memory to track skin issues, missing subtle changes or dela
 ---
 ##  Project Documentation
 
-<img width="944" alt="Screenshot 2025-05-31 002956" src="https://github.com/user-attachments/assets/e44749fc-7617-44e3-a194-c14b06ef05be" />
+<img width="940" alt="Screenshot 2025-05-31 002956" src="https://github.com/user-attachments/assets/e44749fc-7617-44e3-a194-c14b06ef05be" />
 
-<img width="939" alt="Screenshot 2025-05-30 215740gg" src="https://github.com/user-attachments/assets/3dade313-628d-4ed0-a711-494b921381dc" />
+<img width="940" alt="Screenshot 2025-05-30 215740gg" src="https://github.com/user-attachments/assets/3dade313-628d-4ed0-a711-494b921381dc" />
 
-<img width="930" alt="Screenshot 2025-05-31 003549" src="https://github.com/user-attachments/assets/db16fdb2-6783-4e79-b2e4-5bcfafec8235" />
+<img width="940" alt="Screenshot 2025-05-31 003549" src="https://github.com/user-attachments/assets/db16fdb2-6783-4e79-b2e4-5bcfafec8235" />
 
 
-> *(https://github.com/user-attachments/assets/b8fbe751-0681-45cb-864a-5f54becf0813)*
+>video : *(https://github.com/user-attachments/assets/b8fbe751-0681-45cb-864a-5f54becf0813)*
 
 ##  Team CODE CATALYST
 
