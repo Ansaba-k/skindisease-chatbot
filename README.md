@@ -17,13 +17,13 @@
 
 ##  Project Overview
 
-**DermAI** is an intelligent chatbot that leverages AI to **analyze skin images** and provide **preliminary insights** on potential skin conditions. Users can also **chat with the bot** to understand symptoms, causes, and when to seek medical advice — offering a blend of **computer vision** and **natural language understanding** to enhance skin health awareness and accessibility.
+DermAI is an AI-powered chatbot designed to provide both instant analysis and progress tracking for skin conditions. Users can upload images of affected areas and receive preliminary insights powered by computer vision and language models. A key innovation is the ability to track skin condition progression over time by uploading images at regular intervals (daily/weekly). DermAI compares these images side-by-side or via slideshow to identify visible changes, detect improvements or worsening, and suggest further actions—like continuing home remedies or seeking medical attention. It also retains a chat and image history to give users a complete timeline of their skin health journey.
 
 ---
 
 ##  Problem Statement
 
-Millions around the world struggle to access dermatologists and accurate skin health information. People often rely on **unverified internet searches** or ignore skin issues, which can result in **delayed diagnosis and incorrect treatments**.
+Millions lack access to regular dermatological consultations, often relying on guesswork or static online results. Most AI tools provide only single-instance diagnosis with no follow-up tracking. This leads to missed signs of deterioration or unnecessary worry. DermAI addresses this by offering ongoing monitoring, enabling users to visualize changes in their skin conditions, understand the effectiveness of treatments, and get AI-guided suggestions based on historical data. It bridges the gap between one-time detection and continuous care in an affordable and accessible way.
 
 ---
 
