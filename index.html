@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Image Chatbot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      max-width: 700px;
+      margin: auto;
+    }
+    #chat-box {
+      border: 1px solid #ccc;
+      padding: 1rem;
+      border-radius: 10px;
+      min-height: 300px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      background-color: #f9f9f9;
+      margin-bottom: 1rem;
+    }
+    .message {
+      padding: 0.5rem 1rem;
+      border-radius: 10px;
+      max-width: 80%;
+    }
+    .user {
+      align-self: flex-end;
+      background-color: #dcf8c6;
+    }
+    .bot {
+      align-self: flex-start;
+      background-color: #eee;
+    }
+    #input-area {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+    input[type="file"],
+    input[type="text"],
+    button {
+      padding: 0.6rem;
+      font-size: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Image Chatbot</h1>
+
+  <div id="chat-box"></div>
+
+  <div id="input-area">
+    <input type="file" id="image-input" accept="image/*" />
+    <input type="text" id="question-input" placeholder="Ask a question about the image" />
+    <button id="send-button">Send</button>
+  </div>
+
+  <script type="module" src="/main.js"></script>
+</body>
+</html>
