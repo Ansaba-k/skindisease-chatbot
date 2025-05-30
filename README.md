@@ -81,14 +81,16 @@ People often rely on memory to track skin issues, missing subtle changes or dela
 
 ##  Sample Use Cases & Screenshots
 
-> *(https://github.com/user-attachments/assets/b8fbe751-0681-45cb-864a-5f54becf0813)*
-
 * User uploads a mole image
 * AI predicts possible Melanoma
 * User asks for care tips → Gets general guidance
 * Bot recommends visiting a dermatologist
 
 ---
+##  Project Documentation
+
+
+> *(https://github.com/user-attachments/assets/b8fbe751-0681-45cb-864a-5f54becf0813)*
 
 ##  Team CODE CATALYST
 
