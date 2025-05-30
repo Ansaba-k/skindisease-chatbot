@@ -29,14 +29,26 @@ Millions lack access to regular dermatological consultations, often relying on g
 
 ##  Our Solution
 
-DermAI provides users with a **cost-effective, instant, and accessible** way to:
 
-*  **Upload images** of affected skin areas
-*  **Receive AI-driven predictions** on potential conditions
-*  **Ask questions** about symptoms, treatment options, and care
-*  **Get guidance** on whether to consult a dermatologist
+Instant Image Analysis:Users upload a skin image and get quick predictions about possible skin issues.
+
+Chat-Based Support:Ask the chatbot questions about symptoms, care, or when to see a doctor.
+
+Condition Progress Tracking:Upload images over days or weeks to see how the skin is changing.
+
+Visual Comparisons:See past and current images side by side or as a slideshow to track changes.
+
+Smart Insights:Get advice if things are getting worse or not improving.
+
+Chat & Image History Panel:A sidebar shows your past chats and images for easy reference.
+
+First-Level Triage Tool:Helps decide if a doctor visit is needed—fast, easy, and accessible.
+
+
 
 ---
+
+
 
 ## **Technical Details**
 
